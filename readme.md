@@ -1,1 +1,2 @@
-
+In the zip file, a folder contains the MATLAB code for reading in the instantenous displacement of each bead, fitting the displacement-time relationship to a sine curve, extracting the local phase value, converting to the local shear modulus, and plotting the global stiffness map;
+a folder contains the Python code for tracking the instantenous displcement of each cell within a dataset for biological samples. 
